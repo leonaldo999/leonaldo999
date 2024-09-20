@@ -41,8 +41,6 @@
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=leonaldo999&label=Profile%20Views&color=8&icon=5&pretty=true" />
-  
-  [![wakatime](https://wakatime.com/badge/user/06c5850a-5bfd-4668-b02a-721d69d50723.svg)](https://wakatime.com/@06c5850a-5bfd-4668-b02a-721d69d50723)
 
 </div>
 
