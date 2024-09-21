@@ -1,34 +1,31 @@
-<h1 align="center"><b>Hi, I'm Naldo-Dev </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+[<h1 align="center"><b>Hi, I'm LeoNaldo-Dev </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>](html)
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=FrontEnd+developer;Computer+systems+engineering+student;Active%2BLearner%2FFrontEnd;Love+to+learn+new+stuffs"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=077305&size=40&center=true&vCenter=true&width=500&height=70&lines=I'm+LeoNaldo+Figura;FrontEnd+Developer;Nice+to+meet+you..!)](https://git.io/typing-svg)
 
-<br>
+[<br>](html)
 
-## <picture><img src = "https://raw.githubusercontent.com/AJ-Derteano/assets/main/about_me.gif" width = 50px></picture> **About me**
+## [<picture><img src = "https://raw.githubusercontent.com/AJ-Derteano/assets/main/about_me.gif" width = 50px></picture>](html) **About me**
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/AJ-Derteano/assets/main/Right_Side.gif" width = 250px></picture>
+<!-- <picture> <img align="right" src="https://raw.githubusercontent.com/AJ-Derteano/assets/main/Right_Side.gif" width = 250px></picture> -->
 
-<br>
+[<br>](html)
 
-- A passionate Self-taught FrontEnd developer
-- Currently study FrontEnd and web projects
-- Personal website link
-- I’m currently open for an Intern or a new job opportunity, this is my resume or Linkedin
+- A self-taught and enthusiastic FrontEnd developer
+- Currently, I study FrontEnd and web projects
+- Link to my personal website
+- I am available for an internship or a new job opportunity, here is my resume or LinkedIn profile
 
-<br><br>
+[<br>](html)[<br>](html)
 
-<img src="https://raw.githubusercontent.com/AJ-Derteano/assets/main/line.gif"><br><br>
+[<img src="https://raw.githubusercontent.com/AJ-Derteano/assets/main/line.gif">](html)[<br>](html)[<br>](html)
 
 <br>
 
-## 🌐 Socials:
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]
 
-# 💻 Tech Stack:
+## 💻 Tech Stack
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,6 +37,7 @@
 ---
 
 <div align="center">
+
   <img src="https://visitcount.itsvg.in/api?id=leonaldo999&label=Profile%20Views&color=8&icon=5&pretty=true" />
 
 </div>
