@@ -1,6 +1,6 @@
 [<h1 align="center"><b>Hi, I'm LeoNaldo-Dev </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>](html)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=077305&size=40&center=true&vCenter=true&width=500&height=70&lines=I'm+LeoNaldo+Figura;FrontEnd+Developer;Nice+to+meet+you..!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=07bb05&size=40&center=true&vCenter=true&width=500&height=70&lines=I'm+LeoNaldo+Figura;FrontEnd+Developer;Nice+to+meet+you..!)](https://git.io/typing-svg)
 
 [<br>](html)
 
